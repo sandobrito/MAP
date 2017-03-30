@@ -1,0 +1,11 @@
+package padraoAdapter;
+
+public class ImagemJpeg implements Imagem {
+
+	@Override
+	public void visualizar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package padraoAdapter;
+
+public class ImagemJpeg implements Imagem {
+
+	@Override
+	public void visualizar() {
+		System.out.println("JPEG carregada");
+		
+	}
+
+	
+}

@@ -1,0 +1,6 @@
+package padraoAdapter;
+
+public interface Imagem {
+
+	public void visualizar();
+}

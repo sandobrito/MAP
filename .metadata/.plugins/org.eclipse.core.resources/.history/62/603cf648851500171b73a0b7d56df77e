@@ -1,0 +1,7 @@
+package padraoAdapter;
+
+public class ImagemJpeg implements Imagem {
+
+	public void visualizar();
+
+}

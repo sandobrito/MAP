@@ -1,0 +1,10 @@
+package padraoAdapter;
+
+public class Cliente {
+public static void main(String[] args) {
+	ImagemTarget img = new ImagemBMPAdapter();
+	img.carregarImagem("BMP");
+	img.desenharImagem(0, 0, 15, 12);
+	
+}
+}

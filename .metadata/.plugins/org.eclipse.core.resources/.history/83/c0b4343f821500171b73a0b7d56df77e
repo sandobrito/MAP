@@ -1,0 +1,9 @@
+package padraoAdapter;
+
+public class teste {
+public static void main(String[] args) {
+	ImagemAdapter im = new ImagemAdapter();
+	
+	
+}
+}

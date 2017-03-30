@@ -1,0 +1,13 @@
+package padraoAdapter;
+
+public class ImagemBMP implements Imagem {
+
+	@Override
+	public void visualizar() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+
+}
