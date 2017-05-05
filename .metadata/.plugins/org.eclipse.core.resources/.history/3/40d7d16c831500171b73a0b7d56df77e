@@ -1,7 +1,0 @@
-package padraoAdapter;
-
-public interface ImagemTarget {
-
-	void carregarImagem();
-	public void desenharImagem();
-}

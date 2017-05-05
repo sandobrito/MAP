@@ -1,7 +1,0 @@
-Factory Method:
-
-Defini as fabricas como classes abstratas, elas criam seus próprios objetos,
-especificados numa interface do produto. Objetos estão implementados em
-classes derivadas.
-
-Para adicionar mais produtos, adicionamos ele a fabrica.

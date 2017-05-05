@@ -1,7 +1,0 @@
-package padraoAdapter;
-
-public interface Imagem {
-
-	void visualizar();
-}
-
