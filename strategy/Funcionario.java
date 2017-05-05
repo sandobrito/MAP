@@ -1,4 +1,4 @@
-package padraoStrategy;
+package strategy;
 
 public class Funcionario {
 	public static final int DESENVOLVEDOR = 1;
@@ -31,7 +31,7 @@ public class Funcionario {
 			cargo = GERENTE;
 			break;
 		default:
-			throw new RuntimeException("Cargo n„o encontrado :/");
+			throw new RuntimeException("Cargo n√£o encontrado :/");
 		}
 	}
 
