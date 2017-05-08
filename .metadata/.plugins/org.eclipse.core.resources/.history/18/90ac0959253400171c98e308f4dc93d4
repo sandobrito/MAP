@@ -1,4 +1,4 @@
-package padraoStrategy;
+package strategy;
 
 public class GratificacaoDBA implements Gratificacao{
 	@Override

@@ -1,4 +1,4 @@
-package padraoStrategy;
+package strategy;
 
 public interface Gratificacao {
 
