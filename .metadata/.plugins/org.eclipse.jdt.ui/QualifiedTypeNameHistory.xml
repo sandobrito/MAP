@@ -4,4 +4,11 @@
 <fullyQualifiedTypeName name="padraoAdapter.ImagemBMP"/>
 <fullyQualifiedTypeName name="padraoAdapter.ImagemTarget"/>
 <fullyQualifiedTypeName name="padraoAdapter.ImagemBMPAdapter"/>
+<fullyQualifiedTypeName name="strategy.GratificacaoGerente"/>
+<fullyQualifiedTypeName name="strategy.GratificacaoDesenvolvedor"/>
+<fullyQualifiedTypeName name="strategy.GratificacaoLider"/>
+<fullyQualifiedTypeName name="strategy.GratificacaoDBA"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="strategy.TipoGratificacao"/>
+<fullyQualifiedTypeName name="strategy.Funcionario"/>
 </qualifiedTypeNameHistroy>
