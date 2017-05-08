@@ -1,0 +1,22 @@
+package strategy;
+
+public enum TipoGratificacao {
+
+	GERENTE{
+		public Gratificacao obterGratificacao(){
+
+			return new GratificacaoGerente();
+		}
+	},
+	DESENVOLVEDOR{
+		
+	},
+	LIDER{
+		
+	},
+	DBA{
+		
+	},
+	
+	
+}

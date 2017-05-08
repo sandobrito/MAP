@@ -1,0 +1,37 @@
+package strategy;
+
+public enum TipoGratificacao {
+
+	GERENTE{
+		@Override
+		public Gratificacao obterGratificacao(){
+
+			return new GratificacaoGerente();
+		}
+	},
+	DESENVOLVEDOR{
+		@Override
+		public Gratificacao obterGratificacao(){
+
+			return new GratificacaoDesenvolvedor();
+		}
+	},
+	LIDER{
+		@Override
+		public Gratificacao obterGratificacao(){
+
+			return new GratificacaoLider();
+		}
+	},
+	DBA{
+		@Override
+		public Gratificacao obterGratificacao(){
+
+			return new GratificacaoDBA();
+		}
+	},;
+
+	
+	
+	
+}
