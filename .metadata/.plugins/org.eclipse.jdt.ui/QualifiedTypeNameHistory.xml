@@ -11,4 +11,5 @@
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="strategy.TipoGratificacao"/>
 <fullyQualifiedTypeName name="strategy.Funcionario"/>
+<fullyQualifiedTypeName name="templateMethod.CapitalStrategy"/>
 </qualifiedTypeNameHistroy>

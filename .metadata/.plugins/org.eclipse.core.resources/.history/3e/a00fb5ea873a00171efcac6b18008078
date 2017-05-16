@@ -1,0 +1,11 @@
+package templateMethod;
+
+public class Loan {
+	 	
+	    public double capital;
+	    public double duration;
+	    protected double riskFactorFor;
+	    public double commit;
+	    public double percentage;
+
+}

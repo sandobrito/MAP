@@ -1,0 +1,9 @@
+package templateMethod;
+
+public class CapitalStrategyTermLoan extends CapitalStrategy {
+
+	public double capital(Loan loan){
+		return loan.getCommitimment() * duration(loan) * riskFactorFor(loan);
+		
+	}
+}

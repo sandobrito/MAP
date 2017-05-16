@@ -1,0 +1,28 @@
+package templateMethod;
+
+public abstract class CapitalStrategy {
+
+	public double capital(Loan loan){
+		return capital(loan);
+	}
+
+    public double duration(Loan loan){
+        return duration(loan);
+    }
+
+    protected double riskFactorFor(Loan loan){
+        return riskFactorFor(loan);
+    }
+    
+    
+
+    
+
+    protected double capitalTemplate(Loan loan){
+        return duration(loan) *
+                riskFactorFor(loan) *
+                capital(loan);
+    }
+
+
+}
