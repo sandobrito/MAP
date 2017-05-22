@@ -12,4 +12,6 @@
 <fullyQualifiedTypeName name="strategy.TipoGratificacao"/>
 <fullyQualifiedTypeName name="strategy.Funcionario"/>
 <fullyQualifiedTypeName name="templateMethod.CapitalStrategy"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
 </qualifiedTypeNameHistroy>
