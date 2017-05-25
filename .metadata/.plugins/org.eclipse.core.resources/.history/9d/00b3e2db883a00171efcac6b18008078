@@ -1,5 +1,0 @@
-package templateMethod;
-
-public class CapitalStrategyAdvisedLine extends CapitalStrategy{
-
-}

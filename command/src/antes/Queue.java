@@ -1,0 +1,21 @@
+package antes;
+
+public class Queue  {
+	public Queue(){
+		m_add = m_remove = 0;
+	}
+	
+	public static void enque( ){
+		m_array[m_add] = c;
+		m_add = (m_add + 1) % Type.SIZE;
+	}
+	
+	public static final deque(){
+		int temp = m_remove;
+		m_remove = (m_remove + 1) % Type.SIZE;
+		return m_array[temp];
+	}
+	public static [] m_array;
+	public static int m_add;
+	public static int m_remove;
+}
